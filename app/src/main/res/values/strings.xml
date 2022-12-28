@@ -8,4 +8,7 @@
     <string name="et_fecha_asignacion">Fecha de Inicio</string>
     <string name="et_fecha_terminacion">Fecha de Culminacion</string>
     <string name="et_user_activity">Usuario Encargado</string>
+    <string name="et_num_activity">Actividad #:</string>
+
+
 </resources>

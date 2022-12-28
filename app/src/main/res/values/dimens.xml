@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="mar_top">20dp</dimen>
+    <dimen name="mar_top_top">50dp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+    <dimen name="obj_space">10dp</dimen>
+
 
 </resources>
